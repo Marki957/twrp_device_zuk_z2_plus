@@ -1,3 +1,3 @@
-TWRP device configuration for ZUK Z2 (Plus)
+SHRP device configuration for ZUK Z2 (Plus)
 ==============
-For building TWRP only
+For building SHRP only
