@@ -91,6 +91,7 @@ TW_USE_TOOLBOX := true
 TW_IGNORE_MISC_WIPE_DATA := true
 
 # SHRP Feature
+SHRP_OFFICIAL := true
 SHRP_PATH := device/zuk/z2_plus
 SHRP_MAINTAINER := ReallySnow
 SHRP_DEVICE_CODE := z2_plus
